@@ -41,7 +41,7 @@ const MobileSocialLinks = () => {
                     <BsFillPersonLinesFill size={20} /> Resume 
                 </>
             ),
-            href: '/AbdulWassay_FrontendDeveloper_Resume',
+            href: 'https://drive.google.com/file/d/1sxDxBVxWdA_joQr13-KGX0mnItYp3nEG/view?usp=sharing',
             style: 'rounded-br-md',
             download: true
         }
