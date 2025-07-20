@@ -4,9 +4,9 @@ This is my 2023 portfolio. Here you can download my resume and check out all the
 
 ## Design
 
-![Screenshot](https://postimg.cc/8szsK5FN)
+![Screenshot](https://i.postimg.cc/pVD8d5Rh/SC-1.png)
 
-![Screenshot](https://postimg.cc/7Jh6fsvf)
+![Screenshot](https://i.postimg.cc/3NCDfVnC/SC-2.png)
 
 **Do you want me to design a portfolio like this for you? Do not hesitate to contact me.**  
 [Go to my portfolio](https://your-portfolio-link-here.com "portfolio") 
