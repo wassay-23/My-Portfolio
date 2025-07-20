@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/AbdulWassay_FrontendDeveloper_Resume.pdf',
+            href: 'https://drive.google.com/file/d/1sxDxBVxWdA_joQr13-KGX0mnItYp3nEG/view?usp=sharing',
             style: 'rounded-br-md',
             download: true
         }
