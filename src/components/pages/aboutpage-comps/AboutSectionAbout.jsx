@@ -17,7 +17,7 @@ const AboutSectionAbout = () => {
 
                     <div className='flex items-center bg-primary-color/20 rounded-md py-2 px-4'>
                         <img className='h-[30px] w-auto mr-2' src="/icons/colombia.png" alt="" />
-                        <h2 className='text-lg sm:text-xl md:text-2xl md:py-1 font-semibold text-white'>Pakistani - 21 years old</h2>
+                        <h2 className='text-lg sm:text-xl md:text-2xl md:py-1 font-semibold text-white'>Pakistani - 22 years old</h2>
                     </div>
                     
                     <p className='text-md md:text-lg text-gray-300 py-4 max-x-md text-justify'>I’m a Frontend Web Developer and a graduate of Sir Syed University of Engineering and Technology, Karachi, with a strong foundation in the MERN stack. I focus on building responsive and scalable web applications that offer seamless user experiences and smooth API integrations. Through both academic and freelance projects like VenueVerse, Brigth Mind Academy and Bizz News, I’ve used modern development tools and design practices to create high-quality, cross-browser compatible solutions. I combine technical precision with creative thinking to bring meaningful digital ideas to life.
